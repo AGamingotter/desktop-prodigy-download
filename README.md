@@ -1,2 +1,3 @@
 # desktop-prodigy-download
-THis is not a desktop download
+This is a download for windows prodigy
+download page here 
